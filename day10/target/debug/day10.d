@@ -1,0 +1,1 @@
+E:\Workspace\Visual\ Studio\ Code\Rust\Advent\ of\ code\2020\Advent-of-Code-2020\day10\target\debug\day10.exe: E:\Workspace\Visual\ Studio\ Code\Rust\Advent\ of\ code\2020\Advent-of-Code-2020\day10\src\main.rs
